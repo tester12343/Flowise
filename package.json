@@ -55,6 +55,21 @@
     },
     "pnpm": {
         "onlyBuiltDependencies": [
+            "@swc/core",
+            "aws-sdk",
+            "bufferutil",
+            "canvas",
+            "core-js",
+            "core-js-pure",
+            "couchbase",
+            "cypress",
+            "es5-ext",
+            "esbuild",
+            "grpc-tools",
+            "protobufjs",
+            "puppeteer",
+            "sharp",
+            "utf-8-validate",
             "faiss-node",
             "sqlite3"
         ],
